@@ -1,6 +1,5 @@
-Absolutely. Let's learn these Python basics **step by step**, using one practical example throughout.
 
-# 1. What is Python?
+ What is Python?
 
 **Python** is a high-level, interpreted programming language used to develop:
 
