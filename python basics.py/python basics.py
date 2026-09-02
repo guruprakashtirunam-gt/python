@@ -1,4 +1,4 @@
-Python Basics: Variables, Data Types and Type Conversion
+#Python Basics: Variables, Data Types and Type Conversion
 # 1. Variables
 # A variable is a name used to store a value in a program.
 name = "Guru"
@@ -9,7 +9,7 @@ print("Age:", age)
 # Output:
 # Name: Guru
 # Age: 22
-2. Data Types
+#2. Data Types
 
 # a) int - Integer
 number_of_students = 30
@@ -42,7 +42,6 @@ print(type(customer_name))
 
 # d) bool - Boolean
 # A bool stores only two possible values: True or False
-age = 22
 is_adult = age >= 18
 
 print("Is the person an adult?", is_adult)
@@ -56,7 +55,6 @@ print(type(is_adult))
 # Type conversion means converting a value from one data type to another.
 
 # Example: Converting String to Integer
-age = "22"
 print("Before conversion:", type(age))
 age = int(age)
 print("After conversion:", type(age))
@@ -68,8 +66,6 @@ print("Age after 5 years:", age + 5)
 
 # Complete Practical Example
 # Variables and Data Types
-name = "Guru"       # String
-age = "22"          # String
 salary = 25000.50   # Float
 
 # Type Conversion
