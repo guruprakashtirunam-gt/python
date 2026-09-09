@@ -1,6 +1,5 @@
 #Object-Oriented Programming.py
 #OOP is important for building larger projects because it helps organize code into **classes and objects**.
-
 #1. Classes & Objects
 #A **class** is a blueprint, while an **object** is an actual instance created from that blueprint.
 
